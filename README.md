@@ -1,7 +1,7 @@
 #  BIO BY MAMBOVSKIY 
 
 ### 👤 User Profile
-- **Name:** Sanya
+- **Name:** Alexandr
 - **Age:** 17
 - **Identity:** Kemono Cat | Furry Fandom 🐾
 - **Location:** Russia 🇷🇺
