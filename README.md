@@ -12,7 +12,7 @@
 - **Languages:**
   - **Python**
   - **NodeJS**
-  - **C#** .NET Framework
+  - **C#**
   - **C++**
 - **Environment:** - **Arch Linux** (Primary workstation)
   - **Ubuntu** (Server & VPS management)
