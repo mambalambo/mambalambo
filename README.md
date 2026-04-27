@@ -1,16 +1,45 @@
-## Hi there 👋
+# ╔═══════════════════════╗
+# 🌟 BIO BY MAMBOVSKIY 🚬
+# ╚═══════════════════════╝
 
-<!--
-**mambalambo/mambalambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mambovskiy/mambovskiy/main/mambocat.png" width="200" alt="Kemono Cat">
+</p>
 
-Here are some ideas to get you started:
+### 👤 Personal Terminal
+- **Name:** Aleksandr (Sanya)
+- **Age:** 17
+- **Location:** RU 🇷🇺
+- **Identity:** Kemono Cat Enthusiast 🐾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Stack & Environment
+- **Languages:**
+  - **Python**
+  - **Node.js**
+  - **C# Framework**
+- **OS:** - **Arch Linux** (Personal usage)
+  - **Ubuntu** (Server administration & VPS clusters)
+- **Tools & Tech:** - Monero (XMR) Mining & Bot Development
+  - Reverse Engineering & Vulnerability Research
+  - Minecraft Server Architecture (High-performance kernels)
+
+---
+* **My channel:** [@webratcrack](https://t.me/webratcrack)
+
+---
+
+### ╭─🔗 Connection ─╮
+* **Telegram:** [@MAMBA_MYD00M](https://t.me/MAMBA_MYD00M) / [@MAMBA_femboy](https://t.me/MAMBA_femboy)
+* **Discord:** `femboygutler`
+* **Matrix:** `@mambalinux:matrix.org`
+* **Email:** `mamba_femboy@hotmail.com`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mambovskiy&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+> *"Always up to date with the latest LLM and server hardware. Performance is not a goal, it's a lifestyle."*
