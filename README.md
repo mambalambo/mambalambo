@@ -34,7 +34,7 @@
 * **Telegram (Reserve):** [@MAMBA_femboy](https://t.me/MAMBA_femboy)
 * **Discord:** `femboygutler`
 * **Matrix:** [`@mambalinux:matrix.org`](http://matrix.org/#/@mambalinux:matrix.org)
-* **Email:** `mamba__femboy@hotmail.com`
+* **Email:** `mamba_femboy@hotmail.com`
 
 ---
 
