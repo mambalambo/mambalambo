@@ -25,12 +25,12 @@
  
 ---
 
-### ╭─📢 My Channel ─╮
+### 📢 My Channel 
 * **Telegram Channel:** [@webratcrack](https://webratcrack.t.me/)
 
 ---
 
-### ╭─🔗 Connection ─╮
+### 🔗 Connection 
 * **Telegram:** [@MAMBA_MYD00M](https://t.me/MAMBA_MYD00M)
 * **Telegram (alt):** [@MAMBA_femboy](https://t.me/MAMBA_femboy)
 * **Discord:** `femboygutler`
