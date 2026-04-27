@@ -1,4 +1,4 @@
-# BIO BY MAMBOVSKIY
+#  BIO BY MAMBOVSKIY 
 
 ### 👤 User Profile
 - **Name:** Sanya
@@ -8,20 +8,21 @@
 
 ---
 
-### 💻 Stack & Tech Interests
-- **Languages:**
+### 💻 Stack & Interests
+- **Languages:** - **C#**
   - **Python**
   - **NodeJS**
-  - **C#**
   - **C++**
-- **Environment:** - **Arch Linux** (Primary workstation)
-  - **Ubuntu** (Server & VPS management)
+- **Environment:**
+  - **Arch Linux** (Main)
+  - **Ubuntu Server** (VPSs)
 - **Specialization:**
-  - **Networking:** TCP/UDP, Proxy/Ngrok tunneling, API integration.
-  - **Mining:** Monero (XMR) optimization, hash-rate tracking, custom pool tools.
-  - **Telegram:** Service architecture and advanced botting.
-  - **Servers:** High-performance Minecraft kernels, system administration.
-
+  - L4 protocols management.
+  - API integration.
+  - XMR Mining.
+  - Telegram bots development.
+  - System Administration (VPS/VDS)
+ 
 ---
 
 ### ╭─📢 My Channel ─╮
@@ -31,7 +32,7 @@
 
 ### ╭─🔗 Connection ─╮
 * **Telegram:** [@MAMBA_MYD00M](https://t.me/MAMBA_MYD00M)
-* **Telegram (Reserve):** [@MAMBA_femboy](https://t.me/MAMBA_femboy)
+* **Telegram (alt):** [@MAMBA_femboy](https://t.me/MAMBA_femboy)
 * **Discord:** `femboygutler`
 * **Matrix:** [`@mambalinux:matrix.org`](http://matrix.org/#/@mambalinux:matrix.org)
 * **Email:** `mamba_femboy@hotmail.com`
@@ -39,7 +40,5 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mambolambo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
-
-> *"Performance is not a goal, it's a lifestyle. Stay fluffy, stay fast."*
