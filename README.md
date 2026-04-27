@@ -1,45 +1,45 @@
-# ╔═══════════════════════╗
-# 🌟 BIO BY MAMBOVSKIY 🚬
-# ╚═══════════════════════╝
+# BIO BY MAMBOVSKIY
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mambovskiy/mambovskiy/main/mambocat.png" width="200" alt="Kemono Cat">
-</p>
-
-### 👤 Personal Terminal
-- **Name:** Aleksandr (Sanya)
+### 👤 User Profile
+- **Name:** Sanya
 - **Age:** 17
-- **Location:** RU 🇷🇺
-- **Identity:** Kemono Cat Enthusiast 🐾
+- **Identity:** Kemono Cat | Furry Fandom 🐾
+- **Location:** Russia 🇷🇺
 
 ---
 
-### 💻 Stack & Environment
+### 💻 Stack & Tech Interests
 - **Languages:**
   - **Python**
-  - **Node.js**
-  - **C# Framework**
-- **OS:** - **Arch Linux** (Personal usage)
-  - **Ubuntu** (Server administration & VPS clusters)
-- **Tools & Tech:** - Monero (XMR) Mining & Bot Development
-  - Reverse Engineering & Vulnerability Research
-  - Minecraft Server Architecture (High-performance kernels)
+  - **NodeJS**
+  - **C#** .NET Framework
+  - **C++**
+- **Environment:** - **Arch Linux** (Primary workstation)
+  - **Ubuntu** (Server & VPS management)
+- **Specialization:**
+  - **Networking:** TCP/UDP, Proxy/Ngrok tunneling, API integration.
+  - **Mining:** Monero (XMR) optimization, hash-rate tracking, custom pool tools.
+  - **Telegram:** Service architecture and advanced botting.
+  - **Servers:** High-performance Minecraft kernels, system administration.
 
 ---
-* **My channel:** [@webratcrack](https://t.me/webratcrack)
+
+### ╭─📢 My Channel ─╮
+* **Telegram Channel:** [@webratcrack](https://webratcrack.t.me/)
 
 ---
 
 ### ╭─🔗 Connection ─╮
-* **Telegram:** [@MAMBA_MYD00M](https://t.me/MAMBA_MYD00M) / [@MAMBA_femboy](https://t.me/MAMBA_femboy)
+* **Telegram:** [@MAMBA_MYD00M](https://t.me/MAMBA_MYD00M)
+* **Telegram (Reserve):** [@MAMBA_femboy](https://t.me/MAMBA_femboy)
 * **Discord:** `femboygutler`
-* **Matrix:** `@mambalinux:matrix.org`
-* **Email:** `mamba_femboy@hotmail.com`
+* **Matrix:** [`@mambalinux:matrix.org`](http://matrix.org/#/@mambalinux:matrix.org)
+* **Email:** `mamba__femboy@hotmail.com`
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mambovskiy&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
 
-> *"Always up to date with the latest LLM and server hardware. Performance is not a goal, it's a lifestyle."*
+> *"Performance is not a goal, it's a lifestyle. Stay fluffy, stay fast."*
